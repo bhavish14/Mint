@@ -1,0 +1,110 @@
+income_categories:
+  - Paycheck
+  - Interest Income
+  - Income
+  - Reimbursement
+
+all_accounts:
+  - Blue Cash Everyday
+  - DISCOVER IT CARD
+  - Amex EveryDay Card
+  - CREDIT CARD
+  - Amazon Prime Store Card
+  - Platinum Card
+  - CHASE COLLEGE
+  - CHASE SAVINGS
+  - Apple Card
+
+credit_card_accounts:
+  - Blue Cash Everyday
+  - DISCOVER IT CARD
+  - Amex EveryDay Card
+  - CREDIT CARD
+  - Amazon Prime Store Card
+  - Platinum Card
+  - Apple Card
+
+categories:
+  - Sporting Goods
+  - Interest Income
+  - Auto Payment
+  - Health & Fitness
+  - Forex Transfer
+  - Gifts & Donations
+  - Office Supplies
+  - Arts
+  - Loan Interest
+  - Cash & ATM
+  - Income
+  - Personal Care
+  - Service Fee
+  - Utilities
+  - Finance Charge
+  - Entertainment
+  - Misc Expenses
+  - Gas & Fuel
+  - Clothing
+  - Date Night
+  - Hair
+  - Paycheck
+  - Hobbies
+  - Dentist
+  - Hotel
+  - Air Travel
+  - Birthday
+  - Furnishings
+  - Transfer
+  - Transfer to Savings
+  - Lawn & Garden
+  - Mobile Phone
+  - Alcohol & Bars
+  - Federal Tax
+  - Amusement
+  - Investments
+  - Charity
+  - Laundry
+  - Groceries
+  - Credit Card Payment
+  - Coffee Shops
+  - Fees & Charges
+  - Car Rental
+  - Parking
+  - Home Improvement
+  - Eyecare
+  - Advertising
+  - Auto & Transport
+  - Business Services
+  - Gift
+  - Property Tax
+  - Pharmacy
+  - Service & Parts
+  - Auto Insurance
+  - Shopping
+  - Travel
+  - Doctor
+  - Music
+  - Rental Car & Taxi
+  - Vacation
+  - Spa & Massage
+  - Subscriptions
+  - Books
+  - Home Phone
+  - Food & Dining
+  - Transfer from Friend
+  - Buy
+  - Public Transportation
+  - Television
+  - Electronics & Software
+  - Fast Food
+  - Food Delivery
+  - Bonus
+  - Reimbursement
+  - Rental Income
+  - Tuition
+  - Home Services
+  - Shipping
+  - Movies & DVDs
+  - Mortgage & Rent
+  - Restaurants
+  - ATM Fee
+  - Gym
